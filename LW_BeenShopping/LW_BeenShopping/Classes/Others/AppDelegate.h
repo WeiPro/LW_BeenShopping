@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  LW_BeenShopping
+//  LW_Shopping
 //
-//  Created by wei on 2016/10/30.
+//  Created by wei on 2016/6/6.
 //  Copyright © 2016年 LWSpro. All rights reserved.
 //
 
